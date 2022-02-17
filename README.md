@@ -1,0 +1,3 @@
+# bootstrap
+patika ödev
+#
