@@ -1,0 +1,49 @@
+body {
+    background-color: #E9ECEF;
+}
+
+nav {
+    background-color: rgb(61, 61, 61);
+    height: 35px;
+    font-size: large;
+    
+}
+
+.ana {
+    margin-left: 120px;
+}
+
+img {
+    height: 209px;
+    width: 140px;
+    float: left;
+    margin-right: 5%;
+}
+
+p {
+    font-size: 14px;
+    text-align: left;   
+}
+h5 {
+    font-weight: 700;
+    text-align: left;
+    color: rgb(31, 31, 173);
+}
+
+.card {
+    height: 300px;
+    margin: 5% 0;
+}
+#ben {
+    height: 400px;
+    width: 300px;
+    margin: 2%;
+    float: left;
+}
+
+#kart {
+    height: auto;
+}
+h4 {
+    padding: 2%;
+}
